@@ -1,0 +1,12 @@
+.container{
+    max-width: 500px;
+    background-color: #e5e5ef;;
+    color: #619889eb;
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 11px 7px rgba(0, 0, 0, .15);
+}
